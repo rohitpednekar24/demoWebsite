@@ -4,6 +4,7 @@ import ArrowOutwardIcon from "@mui/icons-material/ArrowOutward";
 import MenuRoundedIcon from "@mui/icons-material/MenuRounded";
 
 const Intro = () => {
+  
   return (
     <div id="intro-anchor">
     <div className="App">
