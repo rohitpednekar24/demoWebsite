@@ -1,12 +1,10 @@
 import React, { useState } from "react";
-import "./Components/Intro";
-import "./Components/Welcome"
+import "./Components/Welcome";
 
 function App() {
-
   return (
     <div>
-      <Welcome/>
+      <Welcome />
     </div>
   );
 }
